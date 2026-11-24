@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_image_desc">Profile picture</string>
+
+    <string name="profile_ar">طارق زياد تمراز\nمهندس حاسوب | إداري تقني | قائد فرق\n\nالملخص الشخصي:\nمهندس حاسوب سنة رابعة يمتلك مزيجاً بين التفكير التقني والمهارات الإدارية. خبرة في قيادة الفرق وإنجاز المهام تحت الضغط من خلال قيادة المشاريع والبطولات الرياضية. مهارة عالية في التوثيق وإعداد التقارير والعروض التقديمية، بالإضافة إلى مهارة الشرح والتبسيط.\n\nالخبرات والمهارات العملية:\n- تخطيط وتنفيذ مشاريع تقنية من مرحلة تحليل الاحتياج حتى التسليم والتوثيق الكامل.\n- قيادة فرق عمل من 3-4 أفراد: توزيع المهام، متابعة سير العمل، وضمان الالتزام بالجدول الزمني.\n- تصميم هياكل بيانات وقواعد معلومات منظمة وسهلة التحديث.\n\nالمهارات التقنية:\nالبرمجة وتطوير الأنظمة: Java, C++, Flutter, Jetpack Compose, C#, Kotlin, OOP, Data Structures\nتطوير أندرويد وقواعد البيانات: Android Studio, UX Design, MySQL, Firebase</string>
+
+    <string name="profile_en">Tariq Ziad Timraz\nComputer Engineer | Technical Administrator | Team Leader\n\nPersonal Summary:\nFourth-year computer engineering student who combines technical thinking with administrative skills. Experienced in leading teams and completing tasks under pressure by managing projects and sports tournaments. Strong skills in documentation, report writing and presentations, along with the ability to explain and simplify topics.\n\nPractical Experience and Skills:\n- Planning and carrying out technical projects, from needs analysis through delivery and full documentation.\n- Leading teams of 3-4 members: assigning tasks, tracking progress and making sure deadlines are met.\n- Designing organized data structures and databases that are easy to update.\n\nTechnical Skills:\nProgramming and systems development: Java, C++, Flutter, Jetpack Compose, C#, Kotlin, OOP, Data Structures\nAndroid development and databases: Android Studio, UX Design, MySQL, Firebase</string>
+
+    <string name="small_en">Small</string>
+    <string name="medium_en">Medium</string>
+    <string name="large_en">Large</string>
+    <string name="arabic_en">Arabic</string>
+    <string name="english_en">English</string>
+    <string name="apply_en">Apply</string>
+
+    <string name="small_ar">صغير</string>
+    <string name="medium_ar">متوسط</string>
+    <string name="large_ar">كبير</string>
+    <string name="arabic_ar">العربية</string>
+    <string name="english_ar">الإنجليزية</string>
+    <string name="apply_ar">تطبيق</string>
+</resources>
